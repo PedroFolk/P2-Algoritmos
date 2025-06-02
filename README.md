@@ -1,7 +1,7 @@
 
 # Teoria Análise de Algoritmos P2
 
-- **Código do GitHub do Bossini**: [Link para o repositório do Bossini](#)
+- **Código do GitHub do Bossini**
 - **Resumo via GPT**: Resumo detalhado dos algoritmos apresentados abaixo.
 
 ---
