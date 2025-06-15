@@ -1,4 +1,3 @@
-
 # Teoria Análise de Algoritmos P2
 
 - **Código do GitHub do Bossini**
@@ -547,3 +546,87 @@ public class BellmanFord {
 
 **Nota**: O link para o repositório do Bossini deve ser atualizado com o URL correto, caso disponível.
 ```
+# P1
+## 1 
+![image](https://github.com/user-attachments/assets/d1ce70a7-0843-4b6c-9382-13268dbec672)
+I & III
+
+## 2 
+![image](https://github.com/user-attachments/assets/dc0f1752-fde1-4ca1-97dc-e73652e1167e)
+I & II
+
+## 3 
+![image](https://github.com/user-attachments/assets/c18f4b77-488a-48c6-b66f-e881d7e3c56d)
+I & II
+
+## 4 
+![image](https://github.com/user-attachments/assets/d8b814ae-9237-4275-8cf7-8dc7a917b4f3)
+
+## 5 
+![image](https://github.com/user-attachments/assets/86c1f876-c9bb-4470-b9fe-f60465174067)
+II & III
+
+## 6 
+![image](https://github.com/user-attachments/assets/bade13a1-9fa2-44ac-b3df-244ffa91a3ce)
+II
+
+## 7 
+![image](https://github.com/user-attachments/assets/a207cfcd-48a4-4b5c-8415-199b7dd4bfa5)
+I & II
+
+## 8 
+![image](https://github.com/user-attachments/assets/ad0731bf-680f-4c80-a885-3d33506ec23f)
+I & II
+
+## 9 
+![image](https://github.com/user-attachments/assets/97d2298c-a026-4116-ba83-045a7ce78ce5)
+I
+
+## 10 
+![image](https://github.com/user-attachments/assets/5702b31c-e1ed-4ac5-9f3c-8dd15cbc03b1)
+III
+
+# P2
+
+## 1 
+![image](https://github.com/user-attachments/assets/e6e4baec-2ded-42f8-b054-897f9d2f586b)
+
+## 2
+![image](https://github.com/user-attachments/assets/22383d15-ab2d-4b52-87fa-38899a00d17f)
+II & III
+
+## 3
+![image](https://github.com/user-attachments/assets/8b335ee5-9668-4473-9a2c-97dd4d6f521b)
+I
+
+## 4 
+![image](https://github.com/user-attachments/assets/0192a131-4f42-4ae1-989b-f4d2b9ef1c77)
+III
+
+## 5
+![image](https://github.com/user-attachments/assets/887a2dd4-255e-4024-99a4-1ca7074f1880)
+I & II
+
+## 6 
+![image](https://github.com/user-attachments/assets/375c9acf-76e2-489c-9f58-693a0bdf2c15)
+II & III
+
+## 7 
+![image](https://github.com/user-attachments/assets/90dc3cd2-27a9-4c41-a5a4-4e5ca56c74c9)
+III
+
+# 8
+![image](https://github.com/user-attachments/assets/12868aca-a843-4738-9f88-ea689204e481)
+III
+
+# 9
+![image](https://github.com/user-attachments/assets/6d1b8cd7-5a98-4007-bd7a-cd916a995d2e)
+II & III
+
+# 10 
+![image](https://github.com/user-attachments/assets/43434ef1-b1dc-4a98-853d-7cfd7112abd8)
+I & II
+
+
+
+
